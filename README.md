@@ -14,8 +14,9 @@ macOS / Linux:
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
-```bash
+
 Windows (PowerShell):
+```bash
 powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
